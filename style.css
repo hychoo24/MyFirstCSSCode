@@ -253,7 +253,7 @@
 }
 
 .gamename {
-    position: absolute;
+    position: relative;
     top: -28px;
     left: -170px;
     text-align: center; color: #ffff;
